@@ -1,0 +1,4 @@
+generated.go
+gqlgen.yml
+go.mod
+go.sum
